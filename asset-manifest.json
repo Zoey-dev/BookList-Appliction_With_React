@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "//BookList-Appliction_With_React/static/css/main.979709b1.chunk.css",
-    "main.js": "//BookList-Appliction_With_React/static/js/main.292e8cc3.chunk.js",
-    "main.js.map": "//BookList-Appliction_With_React/static/js/main.292e8cc3.chunk.js.map",
-    "runtime-main.js": "//BookList-Appliction_With_React/static/js/runtime-main.acd122f9.js",
-    "runtime-main.js.map": "//BookList-Appliction_With_React/static/js/runtime-main.acd122f9.js.map",
-    "static/js/2.6098cce5.chunk.js": "//BookList-Appliction_With_React/static/js/2.6098cce5.chunk.js",
-    "static/js/2.6098cce5.chunk.js.map": "//BookList-Appliction_With_React/static/js/2.6098cce5.chunk.js.map",
-    "static/js/3.8c774257.chunk.js": "//BookList-Appliction_With_React/static/js/3.8c774257.chunk.js",
-    "static/js/3.8c774257.chunk.js.map": "//BookList-Appliction_With_React/static/js/3.8c774257.chunk.js.map",
-    "index.html": "//BookList-Appliction_With_React/index.html",
-    "static/css/main.979709b1.chunk.css.map": "//BookList-Appliction_With_React/static/css/main.979709b1.chunk.css.map",
-    "static/js/2.6098cce5.chunk.js.LICENSE.txt": "//BookList-Appliction_With_React/static/js/2.6098cce5.chunk.js.LICENSE.txt"
+    "main.css": "/BookList-Appliction_With_React/static/css/main.979709b1.chunk.css",
+    "main.js": "/BookList-Appliction_With_React/static/js/main.292e8cc3.chunk.js",
+    "main.js.map": "/BookList-Appliction_With_React/static/js/main.292e8cc3.chunk.js.map",
+    "runtime-main.js": "/BookList-Appliction_With_React/static/js/runtime-main.a3b99596.js",
+    "runtime-main.js.map": "/BookList-Appliction_With_React/static/js/runtime-main.a3b99596.js.map",
+    "static/js/2.6098cce5.chunk.js": "/BookList-Appliction_With_React/static/js/2.6098cce5.chunk.js",
+    "static/js/2.6098cce5.chunk.js.map": "/BookList-Appliction_With_React/static/js/2.6098cce5.chunk.js.map",
+    "static/js/3.8c774257.chunk.js": "/BookList-Appliction_With_React/static/js/3.8c774257.chunk.js",
+    "static/js/3.8c774257.chunk.js.map": "/BookList-Appliction_With_React/static/js/3.8c774257.chunk.js.map",
+    "index.html": "/BookList-Appliction_With_React/index.html",
+    "static/css/main.979709b1.chunk.css.map": "/BookList-Appliction_With_React/static/css/main.979709b1.chunk.css.map",
+    "static/js/2.6098cce5.chunk.js.LICENSE.txt": "/BookList-Appliction_With_React/static/js/2.6098cce5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.acd122f9.js",
+    "static/js/runtime-main.a3b99596.js",
     "static/js/2.6098cce5.chunk.js",
     "static/css/main.979709b1.chunk.css",
     "static/js/main.292e8cc3.chunk.js"
