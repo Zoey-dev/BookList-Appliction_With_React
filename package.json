@@ -2,6 +2,8 @@
   "name": "booklist-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Zoey-dev.github.io//BookList-Appliction_With_React",
+
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -11,8 +13,7 @@
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.1",
     "uuid": "^8.3.2",
-    "web-vitals": "^0.2.4",
-    "homepage": "https://Zoey-dev.github.io//BookList-Appliction_With_React"
+    "web-vitals": "^0.2.4"
   },
   "scripts": {
     "start": "react-scripts start",
